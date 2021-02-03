@@ -490,7 +490,7 @@
               <list></list>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; color: #000000; font-size: 18pt;&quot;&gt;Para que se lleve a cabo este acompañamiento, cada estudiante durante su paso por la institución recibe la atención de primera mano de un docente capacitado que ejerce el rol de tutor. El tutor del estudiante puede ser permanente o haber rotación de tutores en función de cada Programa Educativo. Además del tutor, el Programa Institucional de Tutorías cuenta con una estructura de atención que involucra al Programa Educativo, a la Unidad Académica, así como a la Institución en general para dar respuesta rápida y adecuada a las necesidades que manifieste cada estudiante. &lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; color: #000000; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;En este período 2021-1&lt;/strong&gt;&lt;/span&gt;, he sido designada como su Tutora, con la intensión de apoyarlos a lograr su desarrollo integral al orientarlos y dar seguimiento en aspectos relacionados con el aprendizaje y su rendimiento académico.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; color: #000000; font-size: 18pt;&quot;&gt;&lt;span style=&quot;color: #800000;&quot;&gt;&lt;strong&gt;En este período 2021-1&lt;/strong&gt;&lt;/span&gt;, he sido designada como su Tutora, con la intención de apoyarlos a lograr su desarrollo integral al orientarlos y dar seguimiento en aspectos relacionados con el aprendizaje y su rendimiento académico.&lt;/span&gt;&lt;/p&gt;
 &lt;div class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
 &lt;div class=&quot;exe-col exe-col-1&quot;&gt;
 &lt;p&gt;&lt;br /&gt;&lt;img src=&quot;resources/IMG_20200704_183814_(3).jpg&quot; alt=&quot;&quot; width=&quot;260&quot; height=&quot;272&quot; style=&quot;float: right;&quot; /&gt;&lt;/p&gt;
@@ -734,7 +734,7 @@
 &lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;El programa de Salud Universitaria de la UES&lt;/strong&gt; está orientado a la prevención, atención, intervención y orientación de estilos de vida saludable, que faciliten el logro y conservación de la salud integral de los miembros de la institución..&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;El programa de Salud Universitaria de la UES&lt;/strong&gt; está orientado a la prevención, atención, intervención y orientación de estilos de vida saludable, que faciliten el logro y conservación de la salud integral de los miembros de la institución.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Para tal efecto, la UES cuenta con el apoyo de profesionistas de la medicina y la psicología en las Unidades Académicas, quienes brindan atención personalizada a los estudiantes a través de su Plan de Atención: &lt;/span&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 18pt;&quot;&gt;Atención continua mediante consulta médica y psicológica.&lt;/span&gt;&lt;/li&gt;
@@ -743,11 +743,10 @@
 &lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Canalización a Instituciones externas en caso de requerirlo.&lt;/span&gt;&lt;/li&gt;
 &lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Pláticas y Talleres.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/Horarios_de_atencion.PNG&quot; alt=&quot;&quot; width=&quot;882&quot; height=&quot;420&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 18pt; font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;img src=&quot;resources/Horarios_de_atencion.PNG&quot; alt=&quot;&quot; width=&quot;746&quot; height=&quot;355&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;ol&gt;
 &lt;li class=&quot;exe-layout-2-cols exe-layout-2-50-50 exe-clear&quot;&gt;
-&lt;p&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 24pt; font-family: helvetica, arial, sans-serif; color: #800000;&quot;&gt;&lt;strong&gt;Programa de Becas&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -1193,7 +1192,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="14"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
